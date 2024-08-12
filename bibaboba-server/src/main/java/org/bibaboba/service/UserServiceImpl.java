@@ -12,7 +12,6 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
-import javax.lang.model.util.SimpleAnnotationValueVisitor6;
 import java.util.Collection;
 import java.util.HashSet;
 import java.util.Set;
