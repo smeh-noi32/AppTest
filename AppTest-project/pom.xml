@@ -28,5 +28,6 @@
 
   <modules>
     <module>../bibaboba-server</module>
+    <module>../AppTest-oAuth</module>
   </modules>
 </project>
